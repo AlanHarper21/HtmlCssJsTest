@@ -1,5 +1,5 @@
 'use strict';
-//// JEUX PIERRE FEUILLE CISEAUX VERSION DE MOI (TUTODEVELLOPEEZ)) ///////
+//// JEU PIERRE FEUILLE CISEAUX VERSION DE MOI (TUTODEVELLOPEEZ)) ///////
 /// Fonction pierre feuille ciseau win lose ////
 
 function pierreFeuilleCiseaux (choix1, choix2) {
