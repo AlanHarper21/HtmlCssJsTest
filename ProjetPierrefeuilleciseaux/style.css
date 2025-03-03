@@ -1,0 +1,48 @@
+.titre {
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(0, 217, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    font-size: 2.5rem;
+}
+
+body {
+    margin: 0;
+}
+
+/*.pierre {
+    background-color: blue;
+}
+.feuille {
+    background-color: brown;
+}
+.ciseaux {
+    background-color: green;
+} */
+
+
+.imgpierre {
+
+    
+    margin: 90px;
+}
+
+.imgfeuille{
+ 
+   
+    margin: 90px;
+}
+
+.imgciseaux {
+   
+    margin: 90px;
+}
+.resultat {
+    text-align: left;
+    padding: 30px;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(231, 21, 21);
+    font-size: 1.5rem;
+}
